@@ -1,0 +1,4 @@
+.pagination .relative {
+    position: relative;
+    display: flex !important;
+}
